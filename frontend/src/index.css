@@ -1,0 +1,29 @@
+
+
+main{
+  min-height: 80vh;
+  background-color:#D7F9FF;
+}
+
+.ml-auto{
+  margin-left: auto;
+}
+h3 {
+  padding: 1rem 0;
+}
+.rating span {
+  margin: 0.1rem;
+}
+.cont {
+ position: relative;
+  top:41px;
+  left:350px;
+  width:10px;
+  height:40px;
+  
+}
+.button {
+ position:relative;
+ left:555px;
+ bottom:50%;
+}
